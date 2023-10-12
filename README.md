@@ -1,5 +1,6 @@
 # Dice-Game
 #Overview
+
 This repository contains a simple and fun Dice Game created using HTML, CSS, and JavaScript. The game is designed to simulate the roll of two dice, allowing users to roll and compare the results.
 
 #How to Play
@@ -14,5 +15,5 @@ style.css: The CSS file for styling the game.
 script.js: The JavaScript file containing the game logic.
 
 #Contributions
-Feel free to contribute to this project by opening issues, making improvements, or adding new features. Your contributions are greatly appreciated!
-Enjoy the game, and happy coding!
+Feel free to contribute to this project by opening up issues, making improvements, or adding new features. Your contributions are greatly appreciated!
+Enjoy the game and happy coding!
