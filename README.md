@@ -1,6 +1,7 @@
 # Dice-Game
-# Overview
+Checkout live preview from GitHub pages: https://ahmad-zeeshan-ramzan.github.io/Dice-Game/
 
+# Overview
 This repository contains a simple and fun Dice Game created using HTML, CSS, and JavaScript. The game is designed to simulate the roll of two dice, allowing users to roll and compare the results.
 
 # How to Play
